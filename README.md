@@ -1,12 +1,12 @@
 Pred objavljanjem preberite spodnja navodila:
 
-Skupina je namenjena slovenski bitcoin, blockchain in distributed ledger skupnosti. http://bitcoin.si.
+Skupina je namenjena slovenski bitcoin, blockchain in distributed ledger skupnosti. http://bitcoin.si
 Skupina Kriptovalute je povezana z Bitcoin društvom Slovenije.
-Pri pridružitivi v FB skupino vas prosim za odgovore na 3 vprašanja , ki so pog za priključitev v skupino. Dokler odgovori niso podani vaša zahteva ne bo obravnavana.
+Ob pridružitvi v FB skupino vas prosimo za kratke odgovore na vsa tri vprašanja, ki so pogoj za sprejem v skupino. Dokler odgovori niso podani vaša zahteva ne bo obravnavana.
 
-V primeru, da na administratorji na vašem profilu opazijo vašo vpletenost v znane piramidne sheme oz podobne spletne prevare si pridržujemo pravico, da zavrnemo vašo prošnjo za priključitev v skupino.
+V primeru, da administratorji na vašem profilu opazijo vašo vpletenost v znane piramidne sheme oz. podobne spletne prevare si pridržujemo pravico, da zavrnemo vašo prošnjo za priključitev v skupino.
 
-Na spodnji povezavi se nahaja pristopna izjava za včlanitev v Bitcoin društvo:
+Na spodnji povezavi se nahaja pristopna izjava za včlanitev v Bitcoin društvo Slovenije:
 https://goo.gl/forms/1DewxOoawwwPrWDo2
 Telegram skupina: https://t.me/BitcoinSi
 Uradni naslovi za plačilo članarine:
@@ -41,19 +41,20 @@ Pravila objavljanja:
 - Scamcoine, piramidne sisteme in pump & dump sheme je prepovedano objavljati. To vključuje Leocoin, MCoin, Onecoin, SCoin in podobno.
 - Upoštevajte splošna pravila lepega obnašanja na spletu.
 
-Administratorji bodo ob kršitvi pravil ustrezno reagirali (opomin, izbris ali ban).
+Administratorji bodo ob kršitvi pravil ustrezno reagirali (opomin, izbris ali prepoved).
 
-Preden zastavite vprašanje o specifični temi uporabite orodje za iskanje po skupini z ustrezno ključno besedo. V kolikor je tema že odprta svoje vprašanje,komentar ali pripombo objavite v komentar.
+Preden zastavite vprašanje o specifični temi uporabite orodje za iskanje po skupini z ustrezno ključno besedo. V kolikor je tema že odprta svoje vprašanje, komentar ali pripombo objavite v komentar.
 
-Predno zastavite vrašanje kot npr. "Kaj si mislite od XYZ coinu" opravite lastno raziskavo in podajte svoje mnenje, ki je nastalo na podlagi lastne raziskave, samo v tem primeru boste bo vaša poizvedba/post odobrena. Kriptokovancev je namreč kar precej in člani niso tu, da namesto vas opravljajo raziskave o XYZ kriptokovancih.
+Predno zastavite vrašanje kot npr. "Kaj si mislite o XYZ coinu" opravite lastno raziskavo in podajte svoje mnenje, ki je nastalo na podlagi lastne raziskave, samo v tem primeru boste bo vaša poizvedba/post odobrena. Kriptokovancev je namreč kar precej in člani niso tu, da namesto vas opravljajo raziskave o XYZ kriptokovancih.
 
-Predloge za dopolnitve ali spremembe pravil lahko pošljete na info@bitcoin.si oziroma administratorjem.
+Predloge za dopolnitve ali spremembe pravilnika lahko pošljete na info@bitcoin.si oziroma administratorjem.
 
-V kolikor vaša objava ni bila odobrena iz strani administratorjev še enkrat preberitev pripeti/pinned post preden se potožite administratorjem.
-Pravila posodobljena 21. 08. 2017.
+V kolikor vaša objava ni bila odobrena s strani administratorjev še enkrat preberite pripeti/pinned post preden se potožite administratorjem.
+Pravila posodobljena 11. 01. 2018.
+
 Uporabne povezave:
-Kaj je bitcoin in kdaj se je začela blockchain revolucija?
 
+Kaj je bitcoin in kdaj se je začela blockchain revolucija?
 https://bitcoin.org/sl/
 https://bitcoin.org/sl/vprasanja-in-odgovori
 http://nakamotoinstitute.org/
@@ -66,6 +67,7 @@ Kriptovalutni trgi:
 http://coinmarketcap.com/
 http://coincap.io/
 https://www.coinhills.com/
+
 Kriptonovice:
 https://cointelegraph.com/
 https://cointelegraph.si
@@ -80,6 +82,4 @@ http://coinmarketcap.com/exchanges/volume/24-hour/
 Youtube zakladnica znanja:
 https://www.youtube.com/user/aantonop/videos
 
-Slovenski blockchain startupi in uveljavljena podjetja:
-
-Posodobljeno: 29.12.2017
+Posodobljeno: 11.01.2018
